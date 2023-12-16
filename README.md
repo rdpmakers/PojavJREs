@@ -1,1 +1,1 @@
-Java JDK/JRE Collections for Pojav (64-Bit only)
+Java JRE Collections for Pojav (64-Bit only)
